@@ -1,0 +1,15 @@
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example003_sum/bin/Debug/net6.0/Example003_sum
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example003_sum/bin/Debug/net6.0/Example003_sum.deps.json
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example003_sum/bin/Debug/net6.0/Example003_sum.runtimeconfig.json
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example003_sum/bin/Debug/net6.0/Example003_sum.dll
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example003_sum/bin/Debug/net6.0/Example003_sum.pdb
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example003_sum/obj/Debug/net6.0/Example003_sum.csproj.AssemblyReference.cache
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example003_sum/obj/Debug/net6.0/Example003_sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example003_sum/obj/Debug/net6.0/Example003_sum.AssemblyInfoInputs.cache
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example003_sum/obj/Debug/net6.0/Example003_sum.AssemblyInfo.cs
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example003_sum/obj/Debug/net6.0/Example003_sum.csproj.CoreCompileInputs.cache
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example003_sum/obj/Debug/net6.0/Example003_sum.dll
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example003_sum/obj/Debug/net6.0/refint/Example003_sum.dll
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example003_sum/obj/Debug/net6.0/Example003_sum.pdb
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example003_sum/obj/Debug/net6.0/Example003_sum.genruntimeconfig.cache
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example003_sum/obj/Debug/net6.0/ref/Example003_sum.dll
