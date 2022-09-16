@@ -1,0 +1,15 @@
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle001_helow_console/bin/Debug/net6.0/Examle001_helow_console
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle001_helow_console/bin/Debug/net6.0/Examle001_helow_console.deps.json
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle001_helow_console/bin/Debug/net6.0/Examle001_helow_console.runtimeconfig.json
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle001_helow_console/bin/Debug/net6.0/Examle001_helow_console.dll
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle001_helow_console/bin/Debug/net6.0/Examle001_helow_console.pdb
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle001_helow_console/obj/Debug/net6.0/Examle001_helow_console.csproj.AssemblyReference.cache
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle001_helow_console/obj/Debug/net6.0/Examle001_helow_console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle001_helow_console/obj/Debug/net6.0/Examle001_helow_console.AssemblyInfoInputs.cache
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle001_helow_console/obj/Debug/net6.0/Examle001_helow_console.AssemblyInfo.cs
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle001_helow_console/obj/Debug/net6.0/Examle001_helow_console.csproj.CoreCompileInputs.cache
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle001_helow_console/obj/Debug/net6.0/Examle001_helow_console.dll
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle001_helow_console/obj/Debug/net6.0/refint/Examle001_helow_console.dll
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle001_helow_console/obj/Debug/net6.0/Examle001_helow_console.pdb
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle001_helow_console/obj/Debug/net6.0/Examle001_helow_console.genruntimeconfig.cache
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle001_helow_console/obj/Debug/net6.0/ref/Examle001_helow_console.dll
