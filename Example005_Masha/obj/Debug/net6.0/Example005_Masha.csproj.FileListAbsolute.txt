@@ -1,0 +1,15 @@
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example005_Masha/obj/Debug/net6.0/Example005_Masha.csproj.AssemblyReference.cache
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example005_Masha/obj/Debug/net6.0/Example005_Masha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example005_Masha/obj/Debug/net6.0/Example005_Masha.AssemblyInfoInputs.cache
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example005_Masha/obj/Debug/net6.0/Example005_Masha.AssemblyInfo.cs
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example005_Masha/obj/Debug/net6.0/Example005_Masha.csproj.CoreCompileInputs.cache
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example005_Masha/bin/Debug/net6.0/Example005_Masha
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example005_Masha/bin/Debug/net6.0/Example005_Masha.deps.json
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example005_Masha/bin/Debug/net6.0/Example005_Masha.runtimeconfig.json
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example005_Masha/bin/Debug/net6.0/Example005_Masha.dll
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example005_Masha/bin/Debug/net6.0/Example005_Masha.pdb
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example005_Masha/obj/Debug/net6.0/Example005_Masha.dll
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example005_Masha/obj/Debug/net6.0/refint/Example005_Masha.dll
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example005_Masha/obj/Debug/net6.0/Example005_Masha.pdb
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example005_Masha/obj/Debug/net6.0/Example005_Masha.genruntimeconfig.cache
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example005_Masha/obj/Debug/net6.0/ref/Example005_Masha.dll
