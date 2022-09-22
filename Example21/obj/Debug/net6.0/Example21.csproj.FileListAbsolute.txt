@@ -1,0 +1,15 @@
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example21/obj/Debug/net6.0/Example21.csproj.AssemblyReference.cache
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example21/obj/Debug/net6.0/Example21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example21/obj/Debug/net6.0/Example21.AssemblyInfoInputs.cache
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example21/obj/Debug/net6.0/Example21.AssemblyInfo.cs
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example21/obj/Debug/net6.0/Example21.csproj.CoreCompileInputs.cache
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example21/bin/Debug/net6.0/Example21
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example21/bin/Debug/net6.0/Example21.deps.json
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example21/bin/Debug/net6.0/Example21.runtimeconfig.json
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example21/bin/Debug/net6.0/Example21.dll
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example21/bin/Debug/net6.0/Example21.pdb
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example21/obj/Debug/net6.0/Example21.dll
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example21/obj/Debug/net6.0/refint/Example21.dll
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example21/obj/Debug/net6.0/Example21.pdb
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example21/obj/Debug/net6.0/Example21.genruntimeconfig.cache
+/Users/makushevvaleriy/Desktop/phyton/Examle/Example21/obj/Debug/net6.0/ref/Example21.dll
