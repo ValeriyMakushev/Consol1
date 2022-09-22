@@ -1,0 +1,15 @@
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle22/obj/Debug/net6.0/Examle22.csproj.AssemblyReference.cache
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle22/obj/Debug/net6.0/Examle22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle22/obj/Debug/net6.0/Examle22.AssemblyInfoInputs.cache
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle22/obj/Debug/net6.0/Examle22.AssemblyInfo.cs
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle22/obj/Debug/net6.0/Examle22.csproj.CoreCompileInputs.cache
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle22/bin/Debug/net6.0/Examle22
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle22/bin/Debug/net6.0/Examle22.deps.json
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle22/bin/Debug/net6.0/Examle22.runtimeconfig.json
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle22/bin/Debug/net6.0/Examle22.dll
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle22/bin/Debug/net6.0/Examle22.pdb
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle22/obj/Debug/net6.0/Examle22.dll
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle22/obj/Debug/net6.0/refint/Examle22.dll
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle22/obj/Debug/net6.0/Examle22.pdb
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle22/obj/Debug/net6.0/Examle22.genruntimeconfig.cache
+/Users/makushevvaleriy/Desktop/phyton/Examle/Examle22/obj/Debug/net6.0/ref/Examle22.dll
