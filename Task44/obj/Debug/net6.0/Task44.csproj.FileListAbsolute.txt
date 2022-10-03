@@ -1,0 +1,15 @@
+/Users/makushevvaleriy/Desktop/phyton/Examle/Task44/bin/Debug/net6.0/Task44
+/Users/makushevvaleriy/Desktop/phyton/Examle/Task44/bin/Debug/net6.0/Task44.deps.json
+/Users/makushevvaleriy/Desktop/phyton/Examle/Task44/bin/Debug/net6.0/Task44.runtimeconfig.json
+/Users/makushevvaleriy/Desktop/phyton/Examle/Task44/bin/Debug/net6.0/Task44.dll
+/Users/makushevvaleriy/Desktop/phyton/Examle/Task44/bin/Debug/net6.0/Task44.pdb
+/Users/makushevvaleriy/Desktop/phyton/Examle/Task44/obj/Debug/net6.0/Task44.csproj.AssemblyReference.cache
+/Users/makushevvaleriy/Desktop/phyton/Examle/Task44/obj/Debug/net6.0/Task44.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makushevvaleriy/Desktop/phyton/Examle/Task44/obj/Debug/net6.0/Task44.AssemblyInfoInputs.cache
+/Users/makushevvaleriy/Desktop/phyton/Examle/Task44/obj/Debug/net6.0/Task44.AssemblyInfo.cs
+/Users/makushevvaleriy/Desktop/phyton/Examle/Task44/obj/Debug/net6.0/Task44.csproj.CoreCompileInputs.cache
+/Users/makushevvaleriy/Desktop/phyton/Examle/Task44/obj/Debug/net6.0/Task44.dll
+/Users/makushevvaleriy/Desktop/phyton/Examle/Task44/obj/Debug/net6.0/refint/Task44.dll
+/Users/makushevvaleriy/Desktop/phyton/Examle/Task44/obj/Debug/net6.0/Task44.pdb
+/Users/makushevvaleriy/Desktop/phyton/Examle/Task44/obj/Debug/net6.0/Task44.genruntimeconfig.cache
+/Users/makushevvaleriy/Desktop/phyton/Examle/Task44/obj/Debug/net6.0/ref/Task44.dll
